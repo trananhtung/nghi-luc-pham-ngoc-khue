@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Nghị Lực - Phạm Ngọc Khuê',
   tagline: 'NGHỊ LỰC CỦA P. N. KHUÊ, IN XONG TẠI NHÀ IN HÀN-THUYẾN, NGÀY 30-4-42 NGOÀI NHỮNG BẢN THƯỜNG, CÓ IN THÊM 5 BẢN ĐẶC BIỆT GIẤY NHIỄU SÓNG THAO, ĐÁNH DẤU TỪ K, I ĐẾN K. V, CÓ CHỮ KÝ CỦA TÁC GIẢ. NHỮNG BẢN NÀY ĐỀU KHÔNG ĐỂ BÁN.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/book-256.png',
 
   // Set the production url of your site here
   url: 'https://nghi-luc-pham-ngoc-khue.vercel.app/',
@@ -49,12 +49,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/pnk.jpg',
     navbar: {
       title: 'Sách Nghi Lực',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Nghi lực - Phạm Ngọc Khuê',
+        src: 'img/book-256.png',
       },
       items: [
         {
