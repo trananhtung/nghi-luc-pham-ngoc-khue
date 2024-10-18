@@ -51,7 +51,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/pnk.jpg',
     navbar: {
-      title: 'Sách Nghi Lực',
+      title: 'Giới thiệu',
       logo: {
         alt: 'Nghi lực - Phạm Ngọc Khuê',
         src: 'img/book-256.png',
