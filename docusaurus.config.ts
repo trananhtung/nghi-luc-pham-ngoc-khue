@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Nghị Lực - Phạm Ngọc Khuê',
+  tagline: 'NGHỊ LỰC CỦA P. N. KHUÊ, IN XONG TẠI NHÀ IN HÀN-THUYẾN, NGÀY 30-4-42 NGOÀI NHỮNG BẢN THƯỜNG, CÓ IN THÊM 5 BẢN ĐẶC BIỆT GIẤY NHIỄU SÓNG THAO, ĐÁNH DẤU TỪ K, I ĐẾN K. V, CÓ CHỮ KÝ CỦA TÁC GIẢ. NHỮNG BẢN NÀY ĐỀU KHÔNG ĐỂ BÁN.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
