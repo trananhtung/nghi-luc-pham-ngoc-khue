@@ -83,6 +83,10 @@ const config: Config = {
               label: 'Nội Dung',
               to: '/docs/intro',
             },
+            {
+              label: 'Bản gốc',
+              to: '/docs/intro',
+            },
           ],
         },
         {
