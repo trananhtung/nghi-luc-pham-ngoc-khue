@@ -46,4 +46,5 @@ p {
   text-justify: inter-word;
   max-width: 75ch;
   line-height: 1.7;
+  font-size: 18px;
 }
