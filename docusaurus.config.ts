@@ -63,7 +63,7 @@ const config: Config = {
           label: 'Nội dung',
         },
         {
-          href: 'https://drive.google.com/file/d/19gAToHSDJ_SIVyiF-xx7cZZUmCZUIyRn/view?usp=sharing',
+          href: 'https://nghi-luc-pham-ngoc-khue.vercel.app/books/Nghị_Lực_NXB_Hàn_Thuyên_1942_Phạm_Ngọc_Khuê_212_Trang.pdf',
           label: 'Tải bản gốc',
           position: 'left'
         },
@@ -90,7 +90,7 @@ const config: Config = {
             },
             {
               label: 'Bản gốc',
-              to: 'https://drive.google.com/file/d/19gAToHSDJ_SIVyiF-xx7cZZUmCZUIyRn/view?usp=sharing',
+              to: 'https://nghi-luc-pham-ngoc-khue.vercel.app/books/Nghị_Lực_NXB_Hàn_Thuyên_1942_Phạm_Ngọc_Khuê_212_Trang.pdf',
             },
           ],
         },
