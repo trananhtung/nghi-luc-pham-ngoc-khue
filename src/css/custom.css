@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   text-align: justify;
   text-justify: inter-word;
-  max-width: 75ch;
+  max-width: 60ch;
   line-height: 1.7;
   font-size: 18px;
 }
