@@ -25,7 +25,7 @@ Mục tiêu của dự án là:
 
 1. **Clone dự án từ GitHub**:
    ```bash
-   git clone https://github.com/username/nghi-luc-docusaurus.git
+   git clone https://github.com/trananhtung/nghi-luc-pham-ngoc-khue.git
    cd nghi-luc-docusaurus
    ```
 
