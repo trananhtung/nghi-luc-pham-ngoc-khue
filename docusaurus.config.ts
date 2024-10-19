@@ -63,6 +63,11 @@ const config: Config = {
           label: 'Nội dung',
         },
         {
+          href: 'https://drive.google.com/file/d/19gAToHSDJ_SIVyiF-xx7cZZUmCZUIyRn/view?usp=sharing',
+          label: 'Tải bản gốc',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/trananhtung/nghi-luc-pham-ngoc-khue',
           label: 'GitHub',
           position: 'right',
@@ -85,7 +90,7 @@ const config: Config = {
             },
             {
               label: 'Bản gốc',
-              to: '/docs/intro',
+              to: 'https://drive.google.com/file/d/19gAToHSDJ_SIVyiF-xx7cZZUmCZUIyRn/view?usp=sharing',
             },
           ],
         },
