@@ -6,28 +6,29 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #4D3E38; /* Nâu đậm, giống bìa sách cổ */
+  --ifm-color-primary-dark: #3B2D28; /* Nâu tối hơn, tạo sự tương phản */
+  --ifm-color-primary-darker: #32251F; /* Tông nâu đậm hơn nữa, gần như đen */
+  --ifm-color-primary-darkest: #241813; /* Gần với màu gỗ sẫm cổ */
+  --ifm-color-primary-light: #6F594F; /* Tông nâu sáng hơn */
+  --ifm-color-primary-lighter: #B7A396; /* Màu giống giấy cũ, ngả vàng nhẹ */
+  --ifm-color-primary-lightest: #EDE0C8; /* Màu vàng nhạt, như giấy cũ hoặc bìa sách đã phai màu */
   --ifm-code-font-size: 100%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(77, 62, 56, 0.1); /* Màu nâu nhạt cho highlight dòng mã */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #B7A396; /* Vàng giấy cũ trong dark mode */
+  --ifm-color-primary-dark: #A3907E; /* Vàng đậm hơn */
+  --ifm-color-primary-darker: #8C7967; /* Vàng nâu */
+  --ifm-color-primary-darkest: #7A6755; /* Nâu sáng */
+  --ifm-color-primary-light: #D2C1B4; /* Tông sáng hơn để giữ tính dễ đọc */
+  --ifm-color-primary-lighter: #E3D7CA; /* Tông sáng hơn, giúp tương phản tốt hơn */
+  --ifm-color-primary-lightest: #F0E6D8; /* Màu gần như giấy trắng ngả vàng trong dark mode */
+  --docusaurus-highlighted-code-line-bg: rgba(77, 62, 56, 0.3); /* Highlight dòng mã với tông nâu đậm hơn trong dark mode */
 }
+
 
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');

@@ -50,6 +50,8 @@ const config: Config = {
   themeConfig: {
     image: 'img/pnk.jpg',
     navbar: {
+      backgroundColor: '#4D3E38', // Màu nâu đậm giống với màu của bìa sách cũ hoặc các vật liệu gỗ cổ.
+      textColor: '#EDE0C8', // Màu vàng nhạt, giống màu giấy cũ, tạo sự tương phản nhẹ nhàng với nền nâu.
       title: 'Giới thiệu',
       logo: {
         alt: 'Nghi lực - Phạm Ngọc Khuê',
