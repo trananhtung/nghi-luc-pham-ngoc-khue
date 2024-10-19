@@ -8,35 +8,37 @@ title: Chương I - Thế nào là yếu?
 
 ## Thế nào là yếu?
 
-Có những hồi mà một túi bạc, một mảnh bằng, một cái ái-tình đã được nâng lên địa-vị một thần-tượng cho cả một thế-hệ. Những thứ "hạ-đẳng thần" ấy đã lôi kéo chúng ta vào những tấn trò hoặc gay-gắt, hoặc lố-bịch, hoặc bi-sầu. Xã-hội đã làm phong-cảnh cho những cuộc sống nhỏ-nhen, nông-nổi và nhạt-nhẽo.
+Có những hồi mà một tủ bạc, một mảnh bằng, một cái ái-tình đã được nâng lên địa-vị một thần-tượng cho cả một thế-hệ. Những thứ "hạ-đẳng thần" ấy đã lôi kéo chúng ta vào những tấn trò hoặc gay-gắt, hoặc lố-bịch, hoặc bi-sầu. Xã-hội đã làm phong-cảnh cho những cuộc sống nhỏ-nhen, nông-nổi và nhạt-nhẽo.
 
-Cho đến ngày nay, trong làn khói lửa chiến-tranh đang bao-trùm thế-giới, những thần-tượng giả-hiệu kia cũng rủ nhau để nhào một lượt. Ngày nay, chúng ta không lo nghèo nàn, không cần hiếu-danh, không sợ hiu-quạnh.
+Cho đến ngày nay, trong làn khói lửa chiến-tranh đang bao-trùm thế-giới, những thần-tượng giả-hiệu kia cùng rủ nhau đổ nhào một lượt. Ngày nay, chúng ta không lo nghèo nàn, không cần hiếu-danh, không sợ hiu-quạnh.
 
-Lý-tưởng của chúng ta ngày nay là sức-khoẻ. Đó mới là báu-vật, có liên-lạc mật-thiết. Đến sự sống của tất cả mọi người. Một người không có sức khỏe là một người khốn-khổ nhất, vì hắn không còn bấu víu vào đâu mà sống được nữa.
+Lý-tưởng của chúng ta ngày nay là sức-khoẻ. Đó mới là báu-vật, có liên-lạc mật-thiết đến sự sống của tất cả mọi người. Một người không có sức khỏe là một người khốn-khổ nhất, vì hắn không còn bấu víu vào đâu mà sống được nữa.
 
-Chúng ta ai cũng muốn khỏe, ai cũng sợ yếu. Tuy nhiên, thường ít người hiểu rõ thế nào là khỏe, là yêu. Phần đông chỉ chạy theo một mẫu người hùng đã phác-họa ra trong tiểu-thuyết và tự thúc đẩy mình rập theo khuôn ấy.
+Chúng ta ai cũng muốn khỏe, ai cũng sợ yếu. Tuy nhiên, thường ít người hiểu rõ thế nào là khỏe, là yêu. Phần đông chỉ chạy theo một mẫu người hùng đã phác-họa ra trong tiểu-thuyết và tự thúc dục mình rập theo khuôn ấy.
 
-Đó không phải là vun cây từ gốc, khai sông từ nguồn, đó không phải là phương-pháp hiếu-nghiệm để thực-hành sức-khỏe.
+Đó không phải là vun cây từ gốc, khai sông từ nguồn, đó không phải là phương-pháp hiệu-nghiệm để thực-hành sức-khỏe.
 
 Bởi vậy, là những người đi tìm sức khỏe — là những người yếu — chúng ta phải bắt đầu từ chỗ phải bắt đầu, nghĩa là từ con người của chúng ta, từ đời sống của chúng ta, từ những cái khuyết-điểm nó làm cho chúng ta đau-khổ và ao-ước.
 
-Hàng ngày, thường khi nói đến sức khỏe chúng ta chỉ nghĩ đến thân-thể. Người trẻ tuổi muốn có bắp-thịt nở nang; người đứng tuổi lo cho bộ sinh-độc, người già lo cho bộ tiêu-hóa. Ta muốn có ngay một cách tập-vỡ thân-thể hay một bài thuốc bổ để đạt mục-đích.
+***
+
+Hàng ngày, thường khi nói đến sức khỏe chúng ta chỉ nghĩ đến thân-thể. Người trẻ tuổi muốn có bắp-thịt nở nang; người đứng tuổi lo cho bộ sinh-dục, người già lo cho bộ tiêu-hóa. Ta muốn có ngay một cách tập-vỏ thần-hiệu hay một bài thuốc bổ để đạt mục-đích.
 
 Rất ít người quan-tâm đến sức mạnh của tình-cảm, của ý nghĩ; rất ít người lo rèn luyện bộ thần-kinh là cơ-quan cốt yếu chi-phối cả sự sinh-hoạt của thân-thể và tâm-hồn.
 
 ### Đó là một điều lầm.
 
-Sức khoẻ của thân-thể vẫn là cần. Nhưng không đủ. Thân-thể tự nó không đứng vững được. Trong cái ăn, cái ngủ, cái chơi… nó hay bước đi quá độ, đi đến chỗ bại hoại. Nó lại còn phải chịu ảnh-hưởng trực-tiếp của những dục vọng ngu-xuẩn, những tình-cảm gay-gắt những ý-nghĩ đen-tối. Những thứ này có thể làm cho nó ốm được, chết được. Chỉ săn-sóc đến sức khoẻ của thân-thể và sao nhãng sức-mạnh tinh-thần, tức là giao-phó cái vận-mệnh của mình cho cái phần người rất nóng-nảy và mù-quáng: thân-thể.
+Sức khoẻ của thân-thể vẫn là cần. Nhưng không đủ. Thân-thể tự nó không đứng vững được. Trong cái ăn, cái ngủ, cái chơi… nó hay bước đi quá độ, đi đến chỗ bại hoại. Nó lại còn phải chịu ảnh-hưởng trực-tiếp của những dục vọng ngu-xuẩn, những tình-cảm gay-gắt, những ý-nghĩ đen-tối. Những thứ này có thể làm cho nó ốm được, chết được. Chỉ săn-sóc đến sức khoẻ của thân-thể và sao nhãng sức-mạnh tinh-thần, tức là giao-phó cái vận-mệnh của mình cho cái phần người rất nông-nổi và mù-quáng: thân-thể.
 
-Và chẳng, cuộc đời của loài người sẽ eo-hẹp, sẽ tục-tĩu biết chừng nào, khi cái phần người mà ta nhận là thanh-cao nhất lại không được vun-trồng một cách chu-đáo? Chúng ta thường tự-phụ là một dân-tộc bốn nghìn năm văn-hiến, chuộng tinh-thần (?) và khinh vật-chất (?), vậy mà đời sống của chúng ta từ xưa đến nay chỉ quanh-quẩn ở trong một khuôn-khổ xã-hội rất chật-hẹp nó bóp chết sự phát-triển khoáng-đạt của mỹ-thuật, văn chương, tri-tuệ, tôn giáo. Phải chăng là ta đã coi thường cái phần hồn của chúng ta?
+Vả chăng, cuộc đời của loài người sẽ eo-hẹp, sẽ tục-tĩu biết chừng nào, khi cái phần người mà ta nhận là thanh-cao nhất lại không được vun-trồng một cách chu-đáo? Chúng ta thường tự-phụ là một dân-tộc bốn nghìn năm văn-hiến, chuộng tinh-thần (?) và khinh vật-chất (?), vậy mà đời sống của chúng ta từ xưa đến nay chỉ quanh-quẩn ở trong một khuôn-khổ xã-hội rất chật-hẹp nó bóp chết sự phát-triển khoáng-đạt của mỹ-thuật, văn chương, trí-tưởng, tôn giáo. Phải chăng là ta đã coi thường cái phần hồn của chúng ta?
 
-Thực ra, ở người mình, hai tiếng tinh-thần chỉ có nghĩa là một thói quen nể lệ cho những phép-tắc độc-đoán của một xã-hội bị đầu-độc bởi những thành-kiến sai lầm.
+Thực ra, ở người mình, hai tiếng tinh-thần chỉ có nghĩa là *một thói quen nô lệ cho những phép-tắc độc-đoán của một xã-hội bị đầu-độc bởi những thành-kiến sai lầm*.
 
 ***
 
-Theo khoa-học ngày nay, con người chỉ là một cái máy, nhưng là một cái máy đầy-đủ. Ngoài cái phần thân-thể rất phức-tạp, rất tinh-vi mà các nhà bác học đã mổ-xẻ phân-tách ra để soi-xét từng-li từng tý, lại còn cái phần tâm-hồn gồm có những dục-vọng, những cảm-giác, những tính-tình, những tư-tưởng. Cái phần này lại còn phiền-phức, còn huyền-diệu, còn bí-hiểm gấp mười muơi lần. Biết bao nhiêu nhà triết-học, đạo-học, biết bao nhiêu thi-sĩ thâm-trầm đã hy-sinh cả hạnh-phúc và đời sống của mình mà cũng không biết đâu đó hỏi cho đến bờ bến, đến nguồn gốc của tâm-giới.
+Theo khoa-học ngày nay, con người chỉ là một cái máy, nhưng là một cái máy đầy-đủ. Ngoài cái phần thân-thể rất phức-tạp, rất tinh-vi mà các nhà bác học đã mổ-xẻ phân-tách ra để soi-xét từng-li từng tí, lại còn cái phần tâm-hồn gồm có những dục-vọng, những cảm-giác, những tính-tình, những tư-tưởng. Cái phần này lại còn phiền-phức, còn huyền-diệu, còn bí-hiểm gấp mấy muơi lần. Biết bao nhiêu nhà triết-học, đạo-học, biết bao nhiêu thi-sĩ thâm-trầm đã hy-sinh cả hạnh-phúc và đời sống của mình mà cũng không biết đâu dò hỏi cho đến bờ bến, đến nguồn gốc của tâm-giới.
 
-Chúng ta lẫy làm lạ tại sao một người lại có thể phải điên được vì một tư-tưởng, tại sao một tình-cảm lại có thể làm đảo-lộn được một kiếp người, tại sao một chủ-nghĩa lại có thể lôi cuốn được cả một dân-tộc? Đó là tại chúng ta không nhận thấy, không cảm thấy cái mối liên-quan mật-thiết của thân-thể và tâm hồn.
+Chúng ta lấy làm lạ tại sao một người lại có thể phát điên được vì một tư-tưởng, tại sao một tình-cảm lại có thể làm đảo-lộn được một kiếp người, tại sao một chủ-nghĩa lại có thể lôi cuốn được cả một dân-tộc? Đó là tại chúng ta không nhận thấy, không cảm thấy cái mối liên-quan mật-thiết của thân-thể và tâm hồn.
 
 Cả hai phần ấy cùng chuyển động luôn luôn, và ảnh-hưởng qua lại lẫn nhau không lúc nào ngớt. Ở một người đầy-đủ, thân-thể và tâm-hồn chung-đúc lại thành một khối. Hoàn-cảnh bên ngoài không thể nào khích-thích một phần người mà lại không động đến phần kia. Những tính cách của tâm hồn phát hiện ra trên hình-hài, và tâm trạng của mỗi người chúng ta đều biến theo cái phản-ảnh của cuộc sinh-hoạt trong cơ-thể.
 
