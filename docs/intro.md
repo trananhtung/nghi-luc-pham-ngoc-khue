@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+id: gioi-thieu
 title: Giới thiệu
 ---
 

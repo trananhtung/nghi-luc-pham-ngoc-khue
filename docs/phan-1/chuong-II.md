@@ -1,6 +1,7 @@
 ---
 position: 2
-title: Chương II - Những con thiếu thân
+id: chuong-2-nhung-con-thieu-than
+title: Chương II - Những con thiêu thân
 ---
 
 # CHƯƠNG II

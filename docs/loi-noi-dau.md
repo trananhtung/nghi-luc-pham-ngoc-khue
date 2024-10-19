@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+id: loi-noi-dau
 title: Lời nói đầu
 ---
 
