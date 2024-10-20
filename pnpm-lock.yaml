@@ -26,6 +26,9 @@ importers:
       lunr:
         specifier: ^2.3.9
         version: 2.3.9
+      lunr-languages:
+        specifier: ^1.14.0
+        version: 1.14.0
       prism-react-renderer:
         specifier: ^2.3.0
         version: 2.4.0(react@18.3.1)
