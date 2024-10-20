@@ -48,7 +48,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/pnk.jpg',
+    image: 'img/bia.png',
     navbar: {
       title: 'Giới thiệu',
       logo: {
