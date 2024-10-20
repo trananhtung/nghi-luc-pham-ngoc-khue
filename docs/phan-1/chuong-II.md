@@ -32,6 +32,27 @@ Ngoài ra, họ không hề nghĩ đến cuộc đời xung-quanh, không làm m
 ***
 
 Trang-thái đau-khổ và nguy-hại của những người lao đầu vào những thú vui rồ-dại quả thực là một trạng-thái bất thường, thuộc về bệnh, và đưa dần về chết.
-### Nguyên nhân ở đâu?
-Hầu hết những người « ham chơi » thường tự thú là họ buồn lắm, đời họ chán lắm. Cả
 
+### Nguyên nhân ở đâu?
+
+Hầu hết những người « ham chơi » thường tự thú là họ buồn lắm, đời họ chán lắm. Cả đến những người đã tôn sự khoái-lạc lên thành một chủ nghĩa, đã coi sự hành lạc như một nghệ-thuật. Họ không phải là những người yêu đời, yêu mình. Họ sẵn lòng liều-thân hoài-thể vào những cuộc vui suốt sáng, tràn cười thâu đêm. Họ biết rượu, thuốc-phiện, cà-phê thuốc lá là những vi độc, nhưng họ không cần đến sức khỏe, họ chỉ cần mê, say, quên. Ở trước mắt họ, đời nhạt quá, yên quá, thường quá, xấu quá. Phải đảo lộn nó lên, hoặc nếu không được — thì phải tự huyễn-hoặc mình đi để trông đợi cho nó khác đi. Họ không lùi trước một cuộc say sưa nào. Họ không sợ một trừng-phạt nào. Mất tiền của, mất danh giá, đeo bệnh tật, bị trơ-trọi, bị sĩ nhục... họ đau, rồi lại quên. Như ngựa quen đường cũ, họ phải vượt các trở lực để giở lại cái vui cháy lòng, cái lo thắt ruột, cái vị chua cay đã quen nếm trải. Họ làm tất cả mọi sự điên cuồng chỉ để mà quên, mà đi trốn hiện tại.
+
+
+### Sao vậy?
+
+Hầu hết những người ấy đã gặp một việc gì bất-mãn ở đời. Họ đã lỡ một tình-duyên đằm-thắm, đã mất một địa-vị êm ái, đã nhầm một bước công-danh rực-rỡ, họ đã chót làm một điều tội-lỗi. Không-thực-hiện được nguyện-vọng sâu-xa của mình, trí nghĩ họ lúc nào cũng lởn vởn đến những cảnh huống vẽ ra trong tưởng-tượng. Họ mang sinh-lực tung-tóe vào những mơ-mộng hão-huyền. Họ không rứt được với những ám-ảnh đen tối của mình, nghĩ đến mình hoài, rầy vò mình hoài. Cứ như thế trong một thời-kỳ khá lâu. Tùy theo sức từng người, sinh-lực mòn-mỏi dần, sụt dần. Rồi đến một lúc, họ thấy không còn hy-vọng gì nữa, họ không nghĩ đến phấn-đấu nữa; cái vết thương của họ vẫn âm-ỉ cắn-rứt, nhưng không chữa được nữa, họ đành cố quên đi. Đã hết sức để hoạt-động, cuộc đời của họ buồn tẻ, không đủ yên-ủi cho họ nữa. Hơn thế, họ thấy mình suy dần, chết dần. Thỉnh-thoảng, trong những lúc xuống quá, chết quá, họ thấy cần phải tự cử mình. Chỉ có cách lao đầu vào các cuộc vui dễ-dàng, mặc dầu nguy-hiểm.
+
+Nói như thế, thì hình như họ không có trách-nhiệm gì trong sự trụy-lạc của họ. Một người khác, hoặc gia-đình hay xã-hội đã gây mối thất-vọng cho họ, và vì một lẽ gì đó họ đã chịu đựng, không chống lại.
+
+Không phải vậy. Trên đời này thiếu gì sự bất-mãn? Có phải người nào bất mãn cũng sinh ra chán đời rồi sinh ra đam-mê đến trụy-lạc đâu?
+
+Nguyên nhân chính, ở đây, là cái bản-ngã cồng-kềnh của họ. Chính di-truyền, giáo-dục gia-đình và xã-hội, và những hành-vi vô-ý-thức của họ, đã gây nên cho họ cái vô oan-gia ấy. Cho đến khi gặp một sự bất-mãn, khi một trở-lực bên ngoài đánh một đòn vào đó và làm cho nứt rạn, họ đau sớt quá, bị thương quá, không dậy được nữa. Đó là những người rất ích-kỷ. Họ cho họ là to lớn, quan-trọng.
+
+Đối với họ, hình như vũ-trụ này sinh ra chỉ là để phụng-sự cho họ mà thôi. Khi mà họ không được toại nguyện thì vũ-trụ hình như không có nữa. Họ không thể nào tha thứ được cho một người nào, hay một hoàn-cảnh một trở-lực nào đã dám làm ngang-trái họ. Nhưng, vì suýt-soa quá, đau khổ quá, họ nghĩ đến vết thương nhiều quá đến mình nhiều quá, nên họ không nghĩ đến phấn-đấu nữa. Cho đến lúc kém sức không thể phấn-đấu được nữa, thì họ chán đời. Chán đời thì họ đi trốn. Và càng trốn, họ càng yếu-đuối, càng khổ-sở, càng thất vọng.
+
+* * *
+Những con thiếu-thân ấy đáng thương-hại hay đáng khinh bỉ? Kết-án họ một cách luân-lý, một cách xã-hội theo một dư luận đạo-đức như thế, thật là không bổ-ích gì cả.
+
+Chỉ nên hiểu rằng đó là những sinh-lực bị tù-hãm trong những cái vỏ bản ngã rất dầy. Những trở-lực, những nghịch-cảnh, những bất mãn đáng lẽ là những cơ-hội rất tốt để cho họ phá vỡ bản ngã và giải-phóng sinh-lực, thì lại làm cho bản-ngã co rúm lại, đè chĩu xuống, áp bức thêm.
+
+Họ chỉ có một tội là không sáng-suốt. Vì thế, nên ở phần thứ hai của sách này, chúng ta sẽ thấy họ rẫy-rụa để thoát-ly, và sự ngu-muội nọ thêm vào sự ngu-muội kia làm cho sinh-lực họ đã yếu-đuối lại yếu-đuối hơn, cuộc đời họ đã khổ-sở lại khổ-sở hơn.
