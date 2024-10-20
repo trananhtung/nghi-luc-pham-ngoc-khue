@@ -6,4 +6,4 @@ title: Chương II - Những con thiêu thân
 
 # CHƯƠNG II
 
-## Những con thiếu thân
+## Những con thiêu thân

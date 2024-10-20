@@ -44,7 +44,7 @@ Cả hai phần ấy cùng chuyển động luôn luôn, và ảnh-hưởng qua 
 
 Sở dĩ hai phần người ấy có thể kết-hợp lại thành một bộ máy linh-hoạt như thế, là vì có một động-lực chung nó điều-khiển cả hai. Động-lực ấy là sinh-lực (1).
 
-Đối với khoa-học ngày nay, sinh-lực còn thuộc vào một giả-thuyết. Cái giả-thuyết này, tuy chưa được công-nhận hoàn-toàn, nhưng cũng không ai đánh đổ được. Vì người ta có thể dựa vào đó để hiểu được những biến-tượng sinh-lý rất ly-kỳ mà khoa-học không giải được. Vì dù sự hạt thóc trổ ra cây lúa, sự quả trứng nở ra con gà. Và khi ta nói đến sức mạnh của bắp thịt, sức mạnh của trái tim, sức mạnh của khối óc, ta phải hiểu đó là ba cách phát-hiện khác nhau của một nguồn sinh-lực chung. Chính vì thế mà một người quá thiên về trí-thức thì tình-cảm thường khô-khan, một người ham sống bằng thể-chất quá dễ sinh ra thô-bỉ, và một người dễ cảm-động quá thì kiến-thức thường hẹp-hòi. Vừa có thừa sức để làm một lực-sĩ, vừa có thông-minh để làm một nhà bác học, vừa thừa tình-cảm để làm một thi-sĩ, phải là một người rất giàu sinh-lực, một thiên-tài đặc-biệt. Số người đó rất hiếm. Thường thường sinh-lực chỉ phát-triển mạnh về một phía: thiên về trí, sinh-lực đào-tạo ra bậc thánh, bậc trí-gia; thiên về tình, sinh-lực đào-tạo ra bậc hiền, bậc nhân giả; thiên về hành-động mãnh-liệt, sinh-lực đào-tạo ra bậc anh-hùng dũng-cảm. Tư cách của mỗi người chúng ta chỉ là kết-quả của sinh-lực thiên-nhiên đã pha trộn nhào nặn những tính chất di-truyền, những ảnh-hưởng của giáo-dục gia-đình và xã-hội, và những tác-động có ý thức của riêng chúng ta.
+Đối với khoa-học ngày nay, sinh-lực còn thuộc vào một giả-thuyết. Cái giả-thuyết này, tuy chưa được công-nhận hoàn-toàn, nhưng cũng không ai đánh đổ được. Vì người ta có thể dựa vào đó để hiểu được những hiện-tượng sinh-lý rất ly-kỳ mà khoa-học không giải được. Ví dụ sự hạt thóc trổ ra cây lúa, sự quả trứng nở ra con gà. Và khi ta nói đến sức mạnh của bắp thịt, sức mạnh của trái tim, sức mạnh của khối óc, ta phải hiểu đó là ba cách phát-hiện khác nhau của một nguồn sinh-lực chung. Chính vì thế mà một người quá thiên về tri-thức thì tình-cảm thường khô-khan, một người ham sống bằng thể-chất quá dễ sinh ra thô-bỉ, và một người dễ cảm-động quá thì kiến-thức thường hẹp-hòi. Vừa có thừa sức để làm một lực-sĩ, vừa có thông-minh để làm một nhà bác học, vừa thừa tình-cảm để làm một thi-sĩ, phải là một người rất giàu sinh-lực, một thiên-tài đặc-biệt. Số người đó rất hiếm. Thường thường sinh-lực chỉ phát-triển mạnh về một phía: thiên về trí, sinh-lực đào-tạo ra bậc thánh, bậc trí-giả; thiên về tình, sinh-lực đào-tạo ra bậc hiền, bậc nhân giả; thiên về hành-động mãnh-liệt, sinh-lực đào-tạo ra bậc anh-hùng dũng-cảm. Tư cách của mỗi người chúng ta chỉ là kết-quả của sinh-lực thiên-nhiên đã pha trộn nhào nặn những tính chất di-truyền, những ảnh-hưởng của giáo-dục gia-đình và xã-hội, và những tác-động có ý thức của riêng chúng ta.
 
 Bởi vậy cái cột-trụ, cái động-cơ của đời sống là sinh-lực. Không nhận thấy cái điều cốt-tử ấy, thì không thể nào hiểu được mình là cái gì, tại sao mình yếu, và làm thế nào cho khoẻ được.
 
@@ -52,7 +52,7 @@ Bởi vậy cái cột-trụ, cái động-cơ của đời sống là sinh-lự
 
 Một điều quan-trọng nữa là phải nhận ra cái ý nghĩa xác-đáng của sự sống. Tôi nói ý-nghĩa chớ không phải mục-đích. Thường thường người ta vẫn gán cho đời sống một mục đích tùy theo cảnh-ngộ và tâm-tính từng người. Người thì cho là sống để tìm những khoái-cảm, người thì cho là để gây một sự-nghiệp, người thì cho là để làm một bổn-phận, để theo một lý-tưởng vân.vân... Định cho cuộc đời một lẽ sống như thế, thực là thiên lệch, cố chấp, hẹp-hòi. Đã dành là mỗi người có một hay nhiều ước vọng muốn làm thỏa-mãn. Nhưng những ước-vọng ấy không phải là mục-đích của sự sống. Sự sống không có mục-đích. Tự nó đã là cứu cánh cho nó rồi. Sống là đủ rồi.
 
-Nhưng sự sống có một ý nghĩa, có tính-cách đặc-biệt của nó. Những ước-vọng riêng của ta chỉ là những điều-kiện cần-thiết để đạt cái ý nghĩa ấy, cái tính cách ấy. Chưa đi được tới đó là đời sống của ta còn non-nớt, còn nóng-nảy, chưa 'thể' gọi là sống được.
+Nhưng sự sống có một ý nghĩa, có tính-cách đặc-biệt của nó. Những ước-vọng riêng của ta chỉ là những điều-kiện cần-thiết để đạt cái ý nghĩa ấy, cái tính cách ấy chưa đi được tới đó là đời sống của ta còn non-nớt, còn nông-nổi, chưa thể gọi là sống được.
 
 ### Vậy sự sống là gì?
 
@@ -60,15 +60,15 @@ Là một cuộc chiến-đấu kịch-liệt và không ngừng của sinh-lự
 
 Ở ta và ở xung quanh ta, cái chết lúc nào cũng chỉ lăm-le phá-hại thân-thể và tâm-hồn ta và ngăn trở không cho phát triển ra được.
 
-Ở ta, có những chất độc và vi-trùng đã lọt vào, và nguy-hiểm hơn nữa là những tính-tình dễ-dàng, những tư-tưởng sai lầm nó kết-tụ lại thành một bàn-ngã dày-đặc để giam-hãm sinh-lực.
+Ở ta, có những chất độc và vi-trùng đã lọt vào, và nguy-hiểm hơn nữa là những tính-tình dở-dang, những tư-tưởng sai lầm nó kết-tụ lại thành một bản-ngã dày-đặc để giam-hãm sinh-lực.
 
-Ở ngoài, ta phải cày ruộng, may áo để khỏi bị đói rét, ta phải coi chừng thú-vật nó có thể cắn xé hoặc phun nọc độc cho ta; ta phải chống-cự, khuất-phục và điều-khiển những sức mạnh thiên-nhiên như gió, nước, lửa, điện, ta lại còn có khi phải đối đầu với đồng-loại để giữ gìn hay dành-đạt lấy phần sống của ta.
+Ở ngoài, ta phải cày ruộng, may áo để khỏi bị đói rét, ta phải coi chừng thú-vật nó có thể cắn xé hoặc phun nọc độc cho ta; ta phải chống-cự, khuất-phục và điều-khiển những sức mạnh thiên-nhiên như gió, nước, lửa, điện, ta lại còn có khi phải đối đầu với đồng-loại để giữ gìn hay dành-dật lấy phần sống của ta.
 
 Trong cuộc xung-xát đầy-rẫy của Sống và Chết, cái mệnh của ta như treo bằng sợi tóc. Cuộc chiến-đấu ngừng là ta chết. (1)
 
 ***
 
-Trong khi đi tìm sức khỏe, cần phải nghiên-ngẫm, phải thực-hành hai cái quan-niệm thiết-thực về người và về sự sống trình bày ở trên đây.
+Trong khi đi tìm sức khỏe, cần phải nghiền-ngẫm, phải thực-hành hai cái quan-niệm thiết-thực về người và về sự sống trình bày ở trên đây.
 
 Người ta là một sức-mạnh (sinh-lực) luôn luôn chiến-đấu với những sức mạnh khác của vũ-trụ. Hoàn-cảnh (bên ngoài và bên trong) công-kích cái “máy người” luôn luôn. Cái tốc-độ của bộ máy người luôn luôn thay đổi tùy theo sự công-kích ấy.
 
@@ -80,23 +80,23 @@ Trái lại, khi nào những trở lực làm cho cái máy người xệch l�
 
 Xem như thế, thì khỏe và yếu không phải là những trạng-thái vĩnh-viễn của cả một đời người; đó là những trạng-thái luôn luôn suy-suyển, luôn luôn thay đổi. Không ai có thể nói được là khỏe hay yếu luôn luôn suốt từ trẻ đến già. Hai cái trạng-thái ấy thay phiên nối tiếp nhau như một cuốn phim nhiều màu sắc. Có điều là ở người này, những mảnh phim nhuộm các màu đỏ (ví dụ là màu của khỏe) hoặc nhiều hơn hoặc ít hơn những mảnh phim nhuộm các màu xanh (ví dụ là màu của yếu).
 
-Như vậy, thì phân-biệt được người khỏe và người yếu rất khó, bởi vì những trạng-thái khỏe và yếu nổi trên là những trạng-thái tâm-lý chủ-quan, người ngoài khó biết được.
+Như vậy, thì phân-biệt được người khỏe và người yếu rất khó, bởi vì những trạng-thái khỏe và yếu nói trên là những trạng-thái tâm-lý chủ-quan, người ngoài khó biết được.
 
 Muốn phân biệt ta cần phải vin vào những kết-quả khách quan của những trạng-thái kín đáo ấy.
 
-Người khỏe là người có nhiều năng-lực lao-cần để cấu-tạo ra những công-trình bổ ích cho sự sống ở ngoài mình. Sinh-lực càng giải-phóng ra ngoài bản-ngã thì người càng khỏe.
+*Người khỏe là người có nhiều năng-lực lao-cần để cấu-tạo ra những công-trình bổ ích cho sự sống ở ngoài mình. Sinh-lực càng giải-phóng ra ngoài bản-ngã thì người càng khỏe.*
 
-Người yếu là người ít năng-lực lao-cần, không làm gì bổ ích cho sự sống quanh mình hoặc lại còn bám hay phá-hoại vào đấy. Sinh lực ấy là một sinh lực bế tắc. Người yếu chỉ là một người ích-kỷ.
+*Người yếu là người ít năng-lực lao-cần, không làm gì bổ ích cho sự sống quanh mình hoặc lại còn bám hay phá-hoại vào đấy. Sinh lực ấy là một sinh lực bế tắc. Người yếu chỉ là một người ích-kỷ.*
 
 Dựa vào tiêu-chuẩn ấy, ta có thể phân những người không làm nên việc, những người yếu, ra làm bốn loại:
 
-1.) Những «con thiếu-thân» : những người nghĩ một đằng làm một nẻo, những người bị bứt dần vào những tác-động vô-ích hoặc tai-hại mà không sao cưỡng được.
+1.) **Những «con thiêu-thân»**: những người nghĩ một đằng làm một nẻo, những người bị bứt dần vào những tác-động vô-ích hoặc tai-hại mà không sao cưỡng được.
 
-2.) Những «cái chong-chóng»: đó là những người không có chủ-định và kiên-nhẫn, họ chạy từ việc này sang việc khác tùy theo sự kích thích từng lúc, rút cục không thành việc gì cả.
+2.) **Những «cái chong-chóng»**: đó là những người không có chủ-định và kiên-nhẫn, họ chạy từ việc này sang việc khác tùy theo sự kích thích từng lúc, rút cục không thành việc gì cả.
 
-3.) Những con vẹt, những người không có sức làm một việc gì ra hồn tuy rằng họ trông rõ ở trong trí những cái gì đáng làm.
+3.) **Những con vẹt**, những người không có sức làm một việc gì ra hồn tuy rằng họ trông rõ ở trong trí những cái gì đáng làm.
 
-4.) Những người bồ-nhìn, đã không nhúc-nhích, lại không cảm-xúc, không suy-nghĩ gì nữa. Đó là những người hoàn-toàn thụ-động.
+4.) **Những người bồ-nhìn**, đã không nhúc-nhích, lại không cảm-xúc, không suy-nghĩ gì nữa. Đó là những người hoàn-toàn thụ-động.
 
 Bốn loại này xếp thứ tự tùy theo tình-trạng nặng hay nhẹ của họ. Ba loại trên, ta thường gặp ở xung quanh ta, ít hay nhiều, tùy từng xứ và từng thời-đại. Loại thứ tư thuộc về thần-kinh bệnh-học và chỉ gặp ở trong các nhà thương điên.
 
