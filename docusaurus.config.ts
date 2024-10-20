@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/book-256.png',
 
   // Set the production url of your site here
-  url: 'https://nghi-luc-pham-ngoc-khue.vercel.app/',
+  url: 'https://nghiluc.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -91,7 +91,7 @@ const config: Config = {
             {
               label: 'Bản gốc',
               to: 'https://nghi-luc-pham-ngoc-khue.vercel.app/books/Nghị_Lực_NXB_Hàn_Thuyên_1942_Phạm_Ngọc_Khuê_212_Trang.pdf',
-            },
+            }
           ],
         },
         {
@@ -101,6 +101,10 @@ const config: Config = {
               label: 'Github',
               href: 'https://github.com/trananhtung/nghi-luc-pham-ngoc-khue',
             },
+            {
+              label: 'Tác giả',
+              href: 'http://vannghequandoi.com.vn/binh-luan-van-nghe/nha-van-bac-si-pham-ngoc-khue-buoc-chan-nguoi-linh-tay-tien-nam-xua_12917.html',
+            }
           ],
         },
       ],
