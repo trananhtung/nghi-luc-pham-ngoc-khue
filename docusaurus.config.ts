@@ -3,6 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
+  plugins: [[ require.resolve('docusaurus-lunr-search'), {
+    languages: ['vi'] // language codes
+  }]],
   title: 'Nghị Lực - Phạm Ngọc Khuê',
   tagline: 'NGHỊ LỰC CỦA P. N. KHUÊ, IN XONG TẠI NHÀ IN HÀN-THUYẾN, NGÀY 30-4-42 NGOÀI NHỮNG BẢN THƯỜNG, CÓ IN THÊM 5 BẢN ĐẶC BIỆT GIẤY NHIỄU SÓNG THAO, ĐÁNH DẤU TỪ K, I ĐẾN K. V, CÓ CHỮ KÝ CỦA TÁC GIẢ. NHỮNG BẢN NÀY ĐỀU KHÔNG ĐỂ BÁN.',
   favicon: 'img/book-256.png',
@@ -111,7 +114,7 @@ const config: Config = {
       copyright: `2024 @TAT team`,
     },
     prism: {
-      theme: prismThemes.github,
+      theme: prismThemes.nightOwl,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
