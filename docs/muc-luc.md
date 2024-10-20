@@ -12,7 +12,7 @@ title: Mục lục
 
 ### PHẦN THỨ NHẤT
 I. **[Thế nào là yêu?](/docs/phan-1/chuong-1-the-nao-la-yeu)** - [Trang 15](/docs/phan-1/chuong-1-the-nao-la-yeu)  
-II. **[Những con thiếu thân](/docs/phan-1/chuong-2-nhung-con-thieu-than)** - [Trang 26](/docs/phan-1/chuong-2-nhung-con-thieu-than)  
+II. **[Những con thiêu thân](/docs/phan-1/chuong-2-nhung-con-thieu-than)** - [Trang 26](/docs/phan-1/chuong-2-nhung-con-thieu-than)  
 III. **[Những cái chong chóng](/docs/phan-1/chuong-3-nhung-cai-chong-chong)** - [Trang 36](/docs/phan-1/chuong-3-nhung-cai-chong-chong)  
 IV. **[Những con ve](/docs/phan-1/chuong-4-nhung-con-ve)** - [Trang 46](/docs/phan-1/chuong-4-nhung-con-ve)  
 V. **[Những bỡ nhỡn](/docs/phan-1/chuong-5-nhung-bo-nhon)** - [Trang 58](/docs/phan-1/chuong-5-nhung-bo-nhon)  
