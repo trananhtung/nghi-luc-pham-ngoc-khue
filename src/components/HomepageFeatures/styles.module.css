@@ -5,7 +5,10 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+
+.containerImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
