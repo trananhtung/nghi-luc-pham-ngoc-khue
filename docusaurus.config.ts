@@ -108,7 +108,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `${new Date().getFullYear()} @TAT team`,
+      copyright: `2024 @TAT team`,
     },
     prism: {
       theme: prismThemes.github,
