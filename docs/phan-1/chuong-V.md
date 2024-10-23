@@ -1,9 +1,9 @@
 ---
 position: 5
-id: chuong-5-nhung-bo-nhon
-title: Chương V - Những bỡ nhỡn
+id: chuong-5-nhung-bo-nhin
+title: Chương V - Những bồ-nhìn
 ---
 
 # CHƯƠNG V
 
-## Những bỡ nhỡn
+## Những bồ-nhìn
