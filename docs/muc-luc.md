@@ -16,7 +16,7 @@ II. **[Những con thiêu thân](/docs/phan-1/chuong-2-nhung-con-thieu-than)** -
 III. **[Những cái chong chóng](/docs/phan-1/chuong-3-nhung-cai-chong-chong)** - [Trang 36](/docs/phan-1/chuong-3-nhung-cai-chong-chong)
 IV. **[Những con vẹt](/docs/phan-1/chuong-4-nhung-con-vet)** - [Trang 46](/docs/phan-1/chuong-4-nhung-con-vet)
 V. **[Những bỡ nhỡn](/docs/phan-1/chuong-5-nhung-bo-nhin)** - [Trang 58](/docs/phan-1/chuong-5-nhung-bo-nhin)
-VI. **[Cái tội yêu](/docs/phan-1/chuong-6-cai-toi-yeu)** - [Trang 67](/docs/phan-1/chuong-6-cai-toi-yeu)
+VI. **[Cái tội yếu](/docs/phan-1/chuong-6-cai-toi-yeu)** - [Trang 67](/docs/phan-1/chuong-6-cai-toi-yeu)
 
 ### PHẦN THỨ HAI
 
