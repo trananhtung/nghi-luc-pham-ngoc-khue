@@ -16,7 +16,7 @@ Người yếu không hẳn là người gầy còm, không hẳn là người �
 
 Có sức khỏe, ngày nay ta phải hiểu rằng đó là có những năng-lực hoạt-động có thể kết-tinh thành công-việc. Những người yếu là những người chỉ phụng-sự riêng mình và không dự gì vào đời sống ở xung-quanh không làm nên việc gì bổ-ích.
 
-Những người ham-mê vật-dục — những con thiếu-thần — thì lăn mình vào những khoái-cảm êm dịu hoặc gay gắt.
+Những người ham-mê vật-dục — những con thiêu-thân — thì lăn mình vào những khoái-cảm êm dịu hoặc gay gắt.
 
 Những người tâm-thần bất-định — những cái chong-chóng — để cho trái tim rung-động dễ dàng tùy theo sự kích-thích tạp nhạp của hoàn cảnh.
 
