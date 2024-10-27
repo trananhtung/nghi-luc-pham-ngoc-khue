@@ -26,7 +26,7 @@ Chỉ trừ những người quá đuối sức, hoàn toàn, thụ động (nh�
 
 Bị giam trong ấy, chúng ta không còn trông thấy gì nữa, ngoài những bảng giả-tri luân-lý độc-đoán và tàn-nhẫn.
 
-Bao nhiêu đau khổ, bao nhiêu lầm-lỡ, bao nhiêu tội-lỗi, chúng ta mang trút cả lên đầu << con người >> của chúng ta. Chúng ta chia con người của chúng ta ra làm nhiều mảnh! Rồi chúng ta vu vạ cho xác-thịt, cho trái tim, cho khối óc. Chúng ta thấy chúng khuyết-điểm, chúng ta muốn hoàn toàn, chúng ta thấy chúng ta cần phải tu-luyện.
+Bao nhiêu đau khổ, bao nhiêu lầm-lỡ, bao nhiêu tội-lỗi, chúng ta mang trút cả lên đầu « con người » của chúng ta. Chúng ta chia con người của chúng ta ra làm nhiều mảnh! Rồi chúng ta vu vạ cho xác-thịt, cho trái tim, cho khối óc. Chúng ta thấy chúng khuyết-điểm, chúng ta muốn hoàn toàn, chúng ta thấy chúng ta cần phải tu-luyện.
 
 Không bao giờ chúng ta thấy chúng ta yếu. Không bao giờ chúng ta được kể đến những nỗi đau khổ do ray-rứt chúng ta. Không bao giờ chúng ta được đòi quyền sống cho con người của chúng ta. Luôn luôn, chúng ta phải lo đến chuyện phải, trái. Luôn luôn chúng ta nghĩ đến tất xấu, nết hay. Luôn luôn chúng ta lo sợ chúng ta hư, chúng ta hỏng. Luoonluoon chúng ta rầy vò một phần người của chúng ta.
 
