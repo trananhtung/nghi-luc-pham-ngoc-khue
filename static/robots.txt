@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nghiluc.vercel.app/sitemap.xml
