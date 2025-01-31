@@ -52,6 +52,9 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/bia.png',
+    metadata: [
+      { name: 'google-site-verification', content: 'dFKPZfeOjCEmMn81BIQ4_yXQW-kRJ0Wc6ij6wPl_Raw' },
+    ],
     navbar: {
       title: 'Giới thiệu',
       logo: {
