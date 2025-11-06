@@ -4,6 +4,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
+import AudioPlayer from "@site/src/components/AudioPlayer";
 
 import styles from "./index.module.css";
 
@@ -39,6 +40,9 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
+      <div className="container" style={{ marginTop: 24 }}>
+          <AudioPlayer />
+        </div>
         <HomepageFeatures />
       </main>
     </Layout>

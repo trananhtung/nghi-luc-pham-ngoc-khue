@@ -8,9 +8,9 @@ title: Chương II - Những con thiêu thân
 
 ## Những con thiêu thân
 
-Thiếu thân là một con bọ sống ở những bụi hay ra kiếm ăn về đêm. Hễ thấy ở đâu có ánh lửa thì nó bay đến và lao mình vào bay lượn xung quanh. Bị nóng, bị bỏng nó cũng không thể rời bỏ đi được, và cứ quanh-quẩn ở đó cho đến khi nào ánh lửa tắt hẳn hay chính nó bị thiêu đốt.
+Thiêu thân là một con bọ sống ở những bụi hay ra kiếm ăn về đêm. Hễ thấy ở đâu có ánh lửa thì nó bay đến và lao mình vào bay lượn xung quanh. Bị nóng, bị bỏng nó cũng không thể rời bỏ đi được, và cứ quanh-quẩn ở đó cho đến khi nào ánh lửa tắt hẳn hay chính nó bị thiêu đốt.
 
-Ở xung-quanh chúng ta, có nhiều người xử-sự như những con thiếu thân. Nhất là khi không có một dư luận sáng-suốt và nghiêm-nghị, thì cá-nhân — hoặc có khi một nhóm đông — rất dễ bị sô-đẩy theo một dục-vọng hay một thành-kiến mù-quáng nhưng mãnh liệt. Những người ấy thường lại là những người tưởng như giàu sinh-lực và có tài-ba lỗi-lạc.
+Ở xung-quanh chúng ta, có nhiều người xử-sự như những con thiêu thân. Nhất là khi không có một dư luận sáng-suốt và nghiêm-nghị, thì cá-nhân — hoặc có khi một nhóm đông — rất dễ bị sô-đẩy theo một dục-vọng hay một thành-kiến mù-quáng nhưng mãnh liệt. Những người ấy thường lại là những người tưởng như giàu sinh-lực và có tài-ba lỗi-lạc.
 
 Thường là những người trẻ tuổi khí-huyết sôi-nổi, hay là những người, tuy đã đứng tuổi, nhưng vẫn còn tráng-kiện, hăng-hái.
 
