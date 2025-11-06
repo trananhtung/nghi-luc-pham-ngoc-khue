@@ -44,6 +44,42 @@ export default function AudioPlayer(): JSX.Element {
         title: "22 - Luyện ý chí",
         src: "/audio/22-Luyện ý chí.mp3",
       },
+      {
+        title: "23 - Lập chí hướng",
+        src: "/audio/23-Lập chí hướng.mp3",
+      },
+      {
+        title: "24 - Bồi bổ xác thịt",
+        src: "/audio/24-Bồi bổ xác thịt.mp3",
+      },
+      {
+        title: "25 - Những con đường cụt",
+        src: "/audio/25-Những con đường cụt.mp3",
+      },
+      {
+        title: "31 - Nghị lực",
+        src: "/audio/31-Nghị lực.mp3",
+      },
+      {
+        title: "32 - Giác ngộ",
+        src: "/audio/32-Giác ngộ.mp3",
+      },
+      {
+        title: "33 - Khôi phục sức khỏe",
+        src: "/audio/33-Khôi phục sức khỏe.mp3",
+      },
+      {
+        title: "34 - Đi tìm nguồn sống",
+        src: "/audio/34-Đi tìm nguồn sống.mp3",
+      },
+      {
+        title: "35 - Giải phóng sinh lực",
+        src: "/audio/35-Giải phóng sinh lực.mp3",
+      },
+      {
+        title: "40 - Kết luận",
+        src: "/audio/40-Kết luận.mp3",
+      },
     ],
     []
   );
