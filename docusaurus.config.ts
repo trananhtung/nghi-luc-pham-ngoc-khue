@@ -74,6 +74,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          href: 'https://nghiluc.vercel.app/books/Nghị_Lực_Phạm_Ngọc_Khuê.epub',
+          label: 'Epub',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/trananhtung/nghi-luc-pham-ngoc-khue',
           label: 'GitHub',
           position: 'right',
